@@ -32,6 +32,7 @@ Through this project I practiced:
 - working with arrays and dynamic collections (ArrayLists)
 - writing structured and reusable code
 
+---
 
 ## Course Context
 Course: ICS4U – Computer Science
@@ -39,6 +40,8 @@ Curriculum: Ontario Secondary School Diploma (OSSD)
 Language: Java
 
 The original programs were developed using the CodeHS learning environment and later copied and pasted into Git
+
+---
 
 ## Author
 Myat Noe Angel
